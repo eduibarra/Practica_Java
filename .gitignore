@@ -6,7 +6,9 @@ tomcat
 
 #
 # Default excludes
-#
+*.xml
+*.properties
+*.mf
 
 # Binaries
 *.7z
